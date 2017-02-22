@@ -1,2 +1,8 @@
-# douban-movies-plugin
-add a button over the movies which can find link of download when you read douban
+# 豆瓣电影资源指引插件
+![](https://camo.githubusercontent.com/3f7996bf7bd441deb7199c498aaa835164dee8da/68747470733a2f2f696d672e736869656c64732e696f2f6475622f6c2f766962652d642e737667)
+这是一个需要自行解压运行在chrome浏览器上面的插件，可以实现在豆瓣电影介绍页面自动添加一个下载按钮，点击可以传送到该电影的可下载资源的地址，当然了，前提是这个电影在事先搜寻存储的哈希表中有资源，目前暂时只爬取了80s电影网的所有视频资源，也就是说如果80s上没有资源，那么按钮就不会出现。
+
+![](./images/1.jpeg)
+![](./images/3.jpeg)
+
+使用这个插件必须
