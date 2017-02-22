@@ -1,0 +1,15 @@
+{
+  "name": "80s-movies-hash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "superagent": "^3.4.4"
+  }
+}
