@@ -8,6 +8,8 @@
 ![](./plugin/images/2.jpeg)
 
 ### 使用方法
+1.能够科学上网的同学：到[chrome应用商店](https://chrome.google.com/webstore/detail/douban-movies-plugin/ecgaddjpeacadegjcopipeoncpaphnpl?hl=zh-CN)下载，
+2.本地下载：
 - 下载Chrome插件：[douban-movies-plugin](https://github.com/shudery/douban-movies-plugin/raw/master/plugin.crx)不需要科学上网，由于我开发者账号没交5刀，所以暂时还没上架到Chrome的官方商店。
 - 打开Chrome浏览器，点击菜单->工具->扩展程序
 - 将已下载的crx文件拖入Chrome窗口
