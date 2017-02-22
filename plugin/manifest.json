@@ -7,8 +7,7 @@
     //侧栏图标设置
     "browser_action": {
         "default_icon": "images/daguo64t.png",
-        "default_popup": "popup.html",
-        "default_title": "Click here!"
+        "default_title": "douban-movies-plugin"
     },
     //注入脚本设置
     "content_scripts": [{
