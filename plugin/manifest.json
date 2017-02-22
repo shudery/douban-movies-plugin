@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
 
-    "name": "dbTo80s",
+    "name": "douban-movies-plugin",
     "description": "add a button over the movies which can find link of download when you read douban",
     "version": "1.0",
     //侧栏图标设置

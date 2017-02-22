@@ -8,7 +8,7 @@
 ![](./plugin/images/2.jpeg)
 
 ### 使用方法
-
+- 下载chrome插件
 
 ### 注意
 - 使用这个插件目前只支持chrome浏览器。

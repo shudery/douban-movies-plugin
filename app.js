@@ -16,7 +16,7 @@ async.mapLimit(tasks, 1, (task, cb) =>
         err && console.log(err);
         moviesList = JSON.stringify(moviesList)
         console.log(moviesList);
-        fs.writeFile('moviesList-1.json', moviesList, (err) => {
+        fs.writeFile('moviesList.json', moviesList, (err) => {
             err && console.log(err);
             console.log('\rall datas write in moviesList.json')
         });
