@@ -8,9 +8,9 @@
 ![](./plugin/images/2.jpeg)
 
 ### 使用方法
-- 下载chrome插件：[douban-movies-plugin](https://github.com/shudery/douban-movies-plugin/raw/master/plugin.crx)
-- 打开 Chrome，菜单->工具->扩展程序
-- 将已下载的 crx 文件拖入 Chrome 窗口
+- 下载Chrome插件：[douban-movies-plugin](https://github.com/shudery/douban-movies-plugin/raw/master/plugin.crx)
+- 打开Chrome浏览器，点击菜单->工具->扩展程序
+- 将已下载的crx文件拖入Chrome窗口
 - 打开一个豆瓣电影页面（如：[https://movie.douban.com/subject/25934014/](https://movie.douban.com/subject/25934014/)），如果电影标题右侧没有出现下载按钮，则表示该资源暂时没找到。
 
 ### 注意
