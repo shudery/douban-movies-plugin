@@ -4,19 +4,16 @@
     "name": "douban-movies-plugin",
     "description": "add a button over the movies which can find link of download when you read douban",
     "version": "1.0",
-    //侧栏图标设置
     "browser_action": {
         "default_icon": "images/daguo64t.png",
         "default_title": "douban-movies-plugin"
     },
-    //注入脚本设置
     "content_scripts": [{
         "js": ["jquery.min.js", "moviesIdHash.js","dbScript.js"],
         "matches": ["*://movie.douban.com/*"],
         "run_at": "document_end"
 
     }],
-    //扩展,商店图标
     "icons": {
         "128": "images/daguo128.png",
         "16": "images/daguo16.png",
