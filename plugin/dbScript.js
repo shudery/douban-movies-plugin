@@ -11,7 +11,7 @@ if (reg1.test(hash)) {
     a.style = 'color:#258DCD;';
     a.href = 'http://www.80s.tw/movie/' + id + '/#minfo';
     a.target = '_blank';
-    a.innerHTML = '<img title="download" style="width:20px;height:20px" src="https://raw.githubusercontent.com/shudery/douban-movies-plugin/master/dbMovies/images/download.png" alt="download">';
+    a.innerHTML = '<img title="download" style="width:20px;height:20px" src="https://raw.githubusercontent.com/shudery/douban-movies-plugin/master/plugin/images/download.png" alt="download">';
     $('#content h1').append(a);
 } else {
     console.log('no found:' + title);
