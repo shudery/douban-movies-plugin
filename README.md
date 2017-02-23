@@ -8,9 +8,9 @@
 ![](./plugin/images/2.jpeg)
 
 ### 使用方法
-- 能够科学上网的同学：到chrome应用商店下载：[douban-movies-plugin](https://chrome.google.com/webstore/detail/douban-movies-plugin/ecgaddjpeacadegjcopipeoncpaphnpl?hl=zh-CN)
-- 本地下载Chrome插件的cxr文件：[plugin.cxr](https://github.com/shudery/douban-movies-plugin/raw/master/plugin.crx)
-- 打开Chrome浏览器，点击菜单->工具->扩展程序
+- 能够科学上网的同学到chrome应用商店下载即可：[douban-movies-plugin](https://chrome.google.com/webstore/detail/douban-movies-plugin/ecgaddjpeacadegjcopipeoncpaphnpl?hl=zh-CN)
+- 不能的直接本地下载Chrome插件的cxr文件：[plugin.cxr](https://github.com/shudery/douban-movies-plugin/raw/master/plugin.crx)
+- 然后打开Chrome浏览器，点击菜单->工具->扩展程序
 - 将已下载的crx文件拖入Chrome窗口
 - 打开一个豆瓣电影页面（如：[https://movie.douban.com/subject/25934014/](https://movie.douban.com/subject/25934014/)），如果电影标题右侧没有出现下载按钮，则表示该资源暂时没找到。
 
